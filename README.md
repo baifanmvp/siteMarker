@@ -1,4 +1,4 @@
-arrayRecorder
+arrayMarker
 =============
 
 记录数组的原始位置，用于还原数组的原始序列
